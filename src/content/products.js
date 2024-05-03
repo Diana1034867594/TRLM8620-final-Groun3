@@ -71,28 +71,28 @@ const products = {
             "productID" : 7,
             "type": "vehicle",
             "title": i18n.getString("title", "7"),
-            "price": 1500000,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/CR90.png",
+            "imageURL": "img/Super-Mario-Bros.-Wonder.jpg",
             "desc": i18n.getString("desc", "7")
         },
         {
             "productID" : 8,
             "type": "vehicle",
             "title": i18n.getString("title", "8"),
-            "price": 8000,
+            "price": 69.99,
             "qty": 0,
-            "imageURL": "img/74-Z.png",
+            "imageURL": "img/The-Legend-of-Zelda-Tears-of-the-Kingdom.jpg",
             "desc": i18n.getString("desc", "8")
         },
-        /*
+        
         {
             "productID" : 9,
             "type": "vehicle",
             "title": i18n.getString("title", "9"),
-            "price": 200000,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/ETA-2.png",
+            "imageURL": "img/Splatoon-3.jpg",
             "desc": i18n.getString("desc", "9")
         },
         {
@@ -131,7 +131,7 @@ const products = {
             "imageURL": "img/Super_Tactical.png",
             "desc": i18n.getString("desc", "13")
         }
-        */
+
         ];
 
         return productCatalog;
