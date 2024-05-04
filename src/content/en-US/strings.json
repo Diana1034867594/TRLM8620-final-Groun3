@@ -9,10 +9,10 @@
         "7": "CR90 Corvette",
         "8": "74-Z Speeder Bike",
         "9": "ETA-2 Interceptor",
-        "10": "R3-Series Droid",
-        "11": "T-70 X-Wing",
-        "12": "Y-Wing Fighter",
-        "13": "Super Tactical Droid"
+        "10": "The Legend of Zelda™: Breath of the Wild",
+        "11": "It Takes Two",
+        "12": "Kirby’s Return to Dream Land™ Deluxe",
+        "13": "Luigi's Mansion™ 2 HD"
     },
     "desc": {
         "1": "Each droid is equipped with a SyntheTech AA-1 VerboBrain making them capable of storing enormous amounts of information, the additional memory space is often used to keep communication modules in the active memory so that long delays could be avoided while searching for linguistic information on mid-translation. A TranLang III communications module allows them to be fluent in over six million forms of communication. They also have the skills necessary to quickly analyze new unregistered languages and translate them into more well-known ones.",
@@ -24,10 +24,9 @@
         "7": "Measuring 150 meters in length, it features two dual and four single turbolaser turrets, and has the ability to reach a maximum speed of 950 kph. According to Luke Skywalker, some combat-outfitted CR90 ships can be equipped with six dual turbolasers. Capable of carrying an entire diplomatic escort, it has a passenger capacity in the hundreds. Although the ships are not built as carriers, three RZ-1 A-wing interceptors can be attached to the docking rings, allowing for a small escort. They serve as the backbone of the early rebellion and Alliance. Though not particularly heavily armed, CR90s possess enough forward firepower to destroy a Gozanti-class cruiser quite easily.",
         "8": "The 74-Z Speeder Bike is capable of reaching speeds up to and beyond five hundred kilometers per hour, and has a flight ceiling of twenty-five meters. 74-Zs are the military variant of the civilian 74-Y. They are controlled by handlebars located towards the front of the vehicle, and foot pedals slung underneath adjust speed and altitude. The highly maneuverable vehicles are equipped with sensor and communications devices located between the handlebars, including a comlink and a comlink-jamming device. The speeder is equipped with terrain-following sensors that link up with the HUD in the driver's helmet. They are armed with a forward rotating blaster cannon for combat.",
         "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
-        "10": "The R3-series astromech droid features much of the same hardware as its predecessor, the R2 unit, lacking only the earlier droid's extendible video sensor. The R3's chassis is largely cylindrical, appearing as an upright tube with a short, truncated cone at its base. Keeping the droid upright are two narrow legs, each of which terminate in a treaded foot shaped like trapezoidal prisms, a third leg is housed within the droid body and could be extended when necessary to afford greater stability. Capping the unit's design is a hardy, rotating, plastex or transparisteel dome. The astromech is sealed to allow for functionality in the vacuum of space.",
-        "11": "The T-70 X-wing starfighter is a cruciform starfighter measuring 12.48 meters in length with a maximum capacity of a single pilot and bottom-loaded astromech droid, which fits into a socket and can be variably configured for different models. If needed, the droid can fly the starfighter without the aid of a pilot, and can even do so remotely. The vessel's targeting computer, flight controls and other essential piloting instruments are located inside an armored cockpit module, under which a removable liquid-cooled flight computer further aids the pilot in ship-based operations. Access panels for computer access and storage exist inside the 'nose' of the vessel, along with an auxiliary generator and storage area typically used for stashing survival gear. A small sensor window marks the location of the ships primary sensor array at the very tip of the nosecone, located behind an emergency beacon. Behind the pilot, a built-in life support system allows the occupant to breathe in an oxygenated atmosphere.",
-        "12": "Affectionately known as a \"wishbone\" to Rebel Alliance and New Republic pilots, the Y-wing starfighter is deployed as a fighter-bomber, designed to fight its way to its objective, deliver its payload of high explosives, and fight its way out again. Its weaponry includes two laser cannons, two ion cannons, and two proton torpedo launchers. An astromech droid, such as an R2 unit, can be plugged into a socket behind the cockpit to act as a co-pilot and manage the ship's various systems.",
-        "13": "A pretty good droid for coordinating attacks. Not good at fighting, just good at planning."
+        "10": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.",
+        "12": "The tough puff Kirby is back for a 1-4 player* platforming adventure across Planet Popstar. Help Magolor rebuild his ship with newly added Mecha and Sand Copy Abilities! Float and fight along with friends on the same system as you control Kirby. Each other player can control a different Kirby or one of Kirby iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee.",
+        "13": "Progress through diverse missions to retrieve the missing shards of the Dark Moon scattered across several distinct haunted mansions, each with their own puzzles to solve and ghosts to capture. Go for a high rating by using your superpowered ghost-hunting tool, the Poltergust 5000, to suck up ghosts (and window curtains) and blow air to search every nook and cranny of the chilling-yet-charming mansions. "
     },
     "Navbar": {
         "searchPlaceholder": "What are you looking for?",
@@ -104,7 +103,7 @@
     "LocaleSelector": {
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
-        "localeZH": "Chinese - China"
+        "localeZH": "Simplified Chinese - China"
     },
     "Special": "Special"
 }
