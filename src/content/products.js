@@ -44,27 +44,27 @@ const products = {
             "productID" : 4,
             "type": "droid",
             "title": i18n.getString("title", "4"),
-            "price": 4500,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/IG-88.png",
+            "imageURL": "img/animals.png",
             "desc": i18n.getString("desc", "4")
         },
         {
             "productID" : 5,
             "type": "vehicle",
             "title": i18n.getString("title", "5"),
-            "price": 1000000,
+            "price": 24.99,
             "qty": 0,
-            "imageURL": "img/Sphyrna_Corevette.png",
+            "imageURL": "img/hades.png",
             "desc": i18n.getString("desc", "5")
         },
         {
             "productID" : 6,
             "type": "droid",
             "title": i18n.getString("title", "6"),
-            "price": 5210,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/G2.png",
+            "imageURL": "img/pokem.png",
             "desc": i18n.getString("desc", "6")
         },
         {
