@@ -42,7 +42,8 @@
         "navLinkVehicles": "Discount"
     },
     "Home": {
-        "welcomeSubtitle": "We provide everything you need to take on the Empire (and win).",
+        "welcomeTitle": "Welcome to Nintendo World!",
+        "welcomeSubtitle": "We provide every game you want to play.",
         "symbolAlt": "Imperial Credit currency symbol"
     },
     
@@ -86,6 +87,9 @@
         "totalTitle": "Total: ",
         "checkoutLabel": "CHECKOUT",
         "closeAlt": "Close Cart"
+    },
+    "Order": {
+        "statusProcess": "Processing"
     },
     "OrderHistory": {
         "historyTitle": "Order History",
