@@ -99,7 +99,7 @@ const products = {
             "productID" : 10,
             "type": "droid",
             "title": i18n.getString("title", "10"),
-            "price": 3450,
+            "price": 59.99,
             "qty": 0,
             "imageURL": "img/The Legend of Zelda Breath of the Wild.jpg",
             "desc": i18n.getString("desc", "10")
@@ -108,7 +108,7 @@ const products = {
             "productID" : 11,
             "type": "vehicle",
             "title": i18n.getString("title", "11"),
-            "price": 150000,
+            "price": 39.99,
             "qty": 0,
             "imageURL": "img/It takes two.jpg",
             "desc": i18n.getString("desc", "11")
@@ -117,7 +117,7 @@ const products = {
             "productID" : 12,
             "type": "vehicle",
             "title": i18n.getString("title", "12"),
-            "price": 134999,
+            "price": 59.99,
             "qty": 0,
             "imageURL": "img/Kirby’s Return to Dream Land Deluxe.jpg",
             "desc": i18n.getString("desc", "12")
@@ -126,7 +126,7 @@ const products = {
             "productID" : 13,
             "type": "droid",
             "title": i18n.getString("title", "13"),
-            "price": 4999,
+            "price": 49.99,
             "qty": 0,
             "imageURL": "img/Luigi's Mansion 2.jpg",
             "desc": i18n.getString("desc", "13")
