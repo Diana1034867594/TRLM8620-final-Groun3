@@ -15,9 +15,9 @@ const products = {
             "type": "droid",
             "class": 2,
             "title": i18n.getString("title", "1"),
-            "price": 3000,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/3PO.png",
+            "imageURL": "img/Mario Kart.png",
             "desc": i18n.getString("desc", "1")
         },
         {
@@ -25,9 +25,9 @@ const products = {
             "type": "droid",
             "class": 4,
             "title": i18n.getString("title", "2"),
-            "price": 800,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/DUM-series.png",
+            "imageURL": "img/Mario Party.png",
             "desc": i18n.getString("desc", "2")
         },
         {
@@ -35,36 +35,36 @@ const products = {
             "type": "droid",
             "class": 1,
             "title": i18n.getString("title", "3"),
-            "price": 4300,
+            "price": 59.99,
             "qty": 0,
-            "imageURL": "img/2-1B.png",
+            "imageURL": "img/Mario Odyssey.png",
             "desc": i18n.getString("desc", "3")
         },
         {
             "productID" : 4,
             "type": "droid",
             "title": i18n.getString("title", "4"),
-            "price": 59.99,
+            "price": 4500,
             "qty": 0,
-            "imageURL": "img/animals.png",
+            "imageURL": "img/IG-88.png",
             "desc": i18n.getString("desc", "4")
         },
         {
             "productID" : 5,
             "type": "vehicle",
             "title": i18n.getString("title", "5"),
-            "price": 24.99,
+            "price": 1000000,
             "qty": 0,
-            "imageURL": "img/hades.png",
+            "imageURL": "img/Sphyrna_Corevette.png",
             "desc": i18n.getString("desc", "5")
         },
         {
             "productID" : 6,
             "type": "droid",
             "title": i18n.getString("title", "6"),
-            "price": 59.99,
+            "price": 5210,
             "qty": 0,
-            "imageURL": "img/pokem.png",
+            "imageURL": "img/G2.png",
             "desc": i18n.getString("desc", "6")
         },
         {
