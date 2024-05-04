@@ -33,13 +33,13 @@
         "searchButtonLabel": "search products",
         "logoAlt": "Sample Logo",
         "searchIconAlt": "search icon",
-        "greetingText": "Hi Junjun",
+        "greetingText": "Welcome",
         "historyLink": "ORDER HISTORY",
         "arrowAlt": "Drop Down Arrow",
         "cartAlt": "show cart",
-        "navLinkHome": "HOME",
-        "navLinkDroids": "DROIDS",
-        "navLinkVehicles": "VEHICLES"
+        "navLinkHome": "Home",
+        "navLinkDroids": "Best Sellers",
+        "navLinkVehicles": "Discount"
     },
     "Home": {
         "welcomeSubtitle": "We provide everything you need to take on the Empire (and win).",
