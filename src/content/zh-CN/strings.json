@@ -43,6 +43,7 @@
         "navLinkVehicles": "VEHICLES"
     },
     "Home": {
+        "welcomeTitle": "Welcome to Nintendo World!",
         "welcomeSubtitle": "We provide everything you need to take on the Empire (and win).",
         "symbolAlt": "Imperial Credit currency symbol"
     },

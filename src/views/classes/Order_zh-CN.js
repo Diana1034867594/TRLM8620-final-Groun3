@@ -28,19 +28,6 @@ class Order {
         return date;
     }
 
-    /* getOrderDate(locale) {
-        var dd = String(this.orderDate.getDate()).padStart(2, '0');
-        var mm = String(this.orderDate.getMonth() + 1).padStart(2, '0'); //January is 0!
-        var yyyy = this.orderDate.getFullYear();
-
-        if (locale = "en-US") {
-            let date = mm + '/' + dd + '/' + yyyy;
-        } else {
-            let date = yyyy + '/' + mm + '/' + dd;
-        }
-        return date;
-    } */
-
     //create a dummy "order status" string
     getOrderStatus() {
         //calculate diff
