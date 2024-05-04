@@ -31,8 +31,13 @@ let Navbar = {
         `<header>
         <!-- logo, search bar, local, profile drop down -->
         <section>
-            <img src="img/Sample Logo.png" id="logo" alt="${logoAlt}">
+            <img src="img/Nintendo Logo.png" id="logo" alt="${logoAlt}">
         </section>
+        <script>
+            var logo = document.getElementById('logo');
+            logo.style.width = '100px';
+            logo.style.height = 'auto'; 
+        </script>
         <section id="search">
             <div id="bar">
                 <input type="text" class="searchTerm" placeholder="${searchPlaceholder}" aria-label="${searchButtonLabel}">
