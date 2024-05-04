@@ -6,9 +6,9 @@
         "4": "IG-88B Droid",
         "5": "Sphyrna Corvette",
         "6": "G2 Repair Droid",
-        "7": "CR90 Corvette",
-        "8": "74-Z Speeder Bike",
-        "9": "ETA-2 Interceptor",
+        "7": "Super Mario Bros. Wonder",
+        "8": "The Legend of Zelda: Tears of the Kingdom",
+        "9": "Splatoon 3",
         "10": "The Legend of Zelda™: Breath of the Wild",
         "11": "It Takes Two",
         "12": "Kirby’s Return to Dream Land™ Deluxe",
@@ -21,9 +21,9 @@
         "4": "A battered chrome war droid, IG-88 stands 1.96 meters in height. His steady aim, along with his ability to track targets with advanced sensors that ring his head and allow him to see in all directions, earns him great success. These sensors include multiple red photoreceptors, a heat sensor, and a sound sensor IG-88 also has a vocoder at the base of his head. His torso is able to fully rotate on the battlefield, allowing him to blast enemies on all sides. His tough metal body allows him to survive most attacks without taking any damage and features acid-proof servo wires.",
         "5": "Several new features have been added to the original Sphyrna structure, including two extra modules mounted to the port and starboard of the craft, six escape pods in place of the cargo bay, and a fourth sublight drive mounted on top of the primary three, giving it enough power to single-handedly move a disabled Star Destroyer. 315 meters in length with a maximum acceleration of 900 kilometers per hour. Equipped with a hyper drive system.",
         "6": "Intended to assist with shipboard repairs, the second-degree G2 repair droid is short in stature, standing 0.8 meters in height. It is also squat, with a wide, bottom-heavy stance that forces it to waddle when it walked. These traits, combined with its long, multi-jointed neck and widely spaced, weight-distributing feet, earns it the nickname 'goose droid.' Each G2 unit has a stripped-down, silver-and-brass-colored skeletal frame with exposed joints and wiring, with a colored trim. The droid's three-digit heavy manipulators can grasp most repair tools, while splayed feet aided in stabilizing its low center of gravity and gives the G2 extra stability when dealing with large, heavy equipment.",
-        "7": "Measuring 150 meters in length, it features two dual and four single turbolaser turrets, and has the ability to reach a maximum speed of 950 kph. According to Luke Skywalker, some combat-outfitted CR90 ships can be equipped with six dual turbolasers. Capable of carrying an entire diplomatic escort, it has a passenger capacity in the hundreds. Although the ships are not built as carriers, three RZ-1 A-wing interceptors can be attached to the docking rings, allowing for a small escort. They serve as the backbone of the early rebellion and Alliance. Though not particularly heavily armed, CR90s possess enough forward firepower to destroy a Gozanti-class cruiser quite easily.",
-        "8": "The 74-Z Speeder Bike is capable of reaching speeds up to and beyond five hundred kilometers per hour, and has a flight ceiling of twenty-five meters. 74-Zs are the military variant of the civilian 74-Y. They are controlled by handlebars located towards the front of the vehicle, and foot pedals slung underneath adjust speed and altitude. The highly maneuverable vehicles are equipped with sensor and communications devices located between the handlebars, including a comlink and a comlink-jamming device. The speeder is equipped with terrain-following sensors that link up with the HUD in the driver's helmet. They are armed with a forward rotating blaster cannon for combat.",
-        "9": "Measuring 5.47 meters in length, the ETA-2 is a highly maneuverable combat-oriented starfighter and is faster than its Aethersprite predecessor, with twin ion engines providing a maximum acceleration of 5,200G and a max speed of 1,500 kph. The Eta-2 features wings with upper and lower radiator panels, S-foils, that are opened to shed excess heat from the ship's engines. The radiator wings are primarily opened during intense combat. For defense, the ship featured two laser cannons and two ion cannons. Unlike laser cannons, the ship's ion cannons fire bursts of plasma that cause temporary electrical disruptions to their target upon impact.",
+        "7": "Classic Mario gameplay is turned on its head with Wonder Flowers in the Super Mario Bros. Wonder game! These game-changing items can make some wonderfully weird stuff happen. Witness pipes coming alive, wreak havoc as a giant Spike-Ball, and lots more!",
+        "8": "An epic adventure awaits in the Legend of Zelda: Tears of the Kingdom game, only on the Nintendo Switch system. In this sequel to the Legend of Zelda: Breath of the Wild game, you’ll decide your own path through the sprawling landscapes of Hyrule and the mysterious islands floating in the vast skies above. Can you harness the power of Link’s new abilities to fight back against the malevolent forces that threaten the kingdom?",
+        "9": "Enter 4-on-4* ink-slinging battles in this colorful action shooter packed with style and attitude. As a squid-like Inkling, quickly cover your surroundings (and opponents) in ink with wild weaponry and swim through your own color to sneak and splat. Dive into the fresh fun with family and friends and make waves as a team. Get splatted by an opponent? No sweat! The goal in Turf War is to cover the most ground, so respawn and jump back into the inky action.",
         "10": "Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.",
         "12": "The tough puff Kirby is back for a 1-4 player* platforming adventure across Planet Popstar. Help Magolor rebuild his ship with newly added Mecha and Sand Copy Abilities! Float and fight along with friends on the same system as you control Kirby. Each other player can control a different Kirby or one of Kirby iconic friends like King Dedede, Meta Knight, and Bandana Waddle Dee.",
         "13": "Progress through diverse missions to retrieve the missing shards of the Dark Moon scattered across several distinct haunted mansions, each with their own puzzles to solve and ghosts to capture. Go for a high rating by using your superpowered ghost-hunting tool, the Poltergust 5000, to suck up ghosts (and window curtains) and blow air to search every nook and cranny of the chilling-yet-charming mansions. "
@@ -77,12 +77,12 @@
     },
     "ProductShow": {
         "qtyLabel": "Qty: ",
-        "addToCartLabel": "ADD TO CART"
+        "addToCartLabel": "Add To Cart"
     },
     "Cart": {
         "cartTitle": "Shopping Cart",
-        "noItemMsg": "No items in cart.",
-        "deleteAlt": "Delete item from cart",
+        "noItemMsg": "No game in cart.",
+        "deleteAlt": "Delete game from cart",
         "totalTitle": "Total: ",
         "checkoutLabel": "CHECKOUT",
         "closeAlt": "Close Cart"
