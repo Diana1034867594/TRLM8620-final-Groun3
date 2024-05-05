@@ -6,8 +6,8 @@
         "4": "Animal Crossing™: New Horizons",
         "5": "Hades",
         "6": "Pokémon™ Violet",
-        "7": "Super Mario Bros. Wonder",
-        "8": "The Legend of Zelda: Tears of the Kingdom",
+        "7": "Super Mario Bros.™ Wonder",
+        "8": "The Legend of Zelda™: Tears of the Kingdom",
         "9": "Splatoon 3",
         "10": "The Legend of Zelda™: Breath of the Wild",
         "11": "It Takes Two",
@@ -31,7 +31,7 @@
     "Navbar": {
         "searchPlaceholder": "What are you looking for?",
         "searchButtonLabel": "search products",
-        "logoAlt": "Sample Logo",
+        "logoAlt": "Nintendo Logo",
         "searchIconAlt": "search icon",
         "greetingText": "Welcome",
         "historyLink": "ORDER HISTORY",
@@ -44,7 +44,7 @@
     "Home": {
         "welcomeTitle": "Welcome to Nintendo World!",
         "welcomeSubtitle": "We provide every game you want to play.",
-        "symbolAlt": "Imperial Credit currency symbol"
+        "symbolAlt": "All the best game you can get"
     },
     
     "Checkout": {
