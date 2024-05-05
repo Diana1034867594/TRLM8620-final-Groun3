@@ -44,8 +44,8 @@ const products = {
             "productID" : 4,
             "type": "droid",
             "title": i18n.getString("title", "4"),
-            "price": 4500,
-            "qty": 59.99,
+            "price": 59.99,
+            "qty": 0,
             "imageURL": "img/animals.png",
             "desc": i18n.getString("desc", "4")
         },
@@ -53,8 +53,8 @@ const products = {
             "productID" : 5,
             "type": "vehicle",
             "title": i18n.getString("title", "5"),
-            "price": 1000000,
-            "qty": 26.99,
+            "price": 26.99,
+            "qty": 0,
             "imageURL": "img/hades.png",
             "desc": i18n.getString("desc", "5")
         },
@@ -62,8 +62,8 @@ const products = {
             "productID" : 6,
             "type": "droid",
             "title": i18n.getString("title", "6"),
-            "price": 5210,
-            "qty": 59.99,
+            "price": 59.99,
+            "qty": 0,
             "imageURL": "img/pokem.png",
             "desc": i18n.getString("desc", "6")
         },
