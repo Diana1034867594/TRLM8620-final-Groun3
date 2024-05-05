@@ -90,7 +90,7 @@
         "closeAlt": "关闭购物车"
     },
     "Order": {
-        "statusProcess": "加工"
+        "statusProcess": "处理中"
     },
     "OrderHistory": {
         "historyTitle": "历史订单",
