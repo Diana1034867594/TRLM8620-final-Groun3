@@ -28,18 +28,6 @@ class Order {
         return date;
     }
 
-    /* getOrderDate(locale) {
-        var dd = String(this.orderDate.getDate()).padStart(2, '0');
-        var mm = String(this.orderDate.getMonth() + 1).padStart(2, '0'); //January is 0!
-        var yyyy = this.orderDate.getFullYear();
-
-        if (locale = "en-US") {
-            let date = mm + '/' + dd + '/' + yyyy;
-        } else {
-            let date = yyyy + '/' + mm + '/' + dd;
-        }
-        return date;
-    } */
 
     //create a dummy "order status" string
     getOrderStatus() {
@@ -50,7 +38,14 @@ class Order {
 
         //let statusProcess = this.i18n.getString("Order", "statusProcess");
 
-        if(diffDays < 2) {
+        if (diffDays < 2) {
+            return i18n.getString("Order", "statusProcess"); // Change here
+        } else if (diffDays < 4) {
+            return i18n.getString("Order", "statusShipped"); // Change here
+        } else {
+            return i18n.getString("Order", "statusDelivered"); // Change here
+        }
+        /* if(diffDays < 2) {
             //return statusProcess;
             return "Processing";
         }
@@ -59,7 +54,7 @@ class Order {
         }
         else{
             return "Delivered";
-        }
+        } */
     }
 
 }

@@ -44,8 +44,15 @@ const i18n = {
     },
     //format date accoring to locale
     formatDate: (date) => {
-        var options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
-        return new Intl.DateTimeFormat([locale, 'en-US'], options).format(date); //$NON-NLS-L$
+        //var options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
+        let options;
+        if (locale === 'zh-CN') {
+            options = { year: 'numeric', month: 'numeric', day: 'numeric' };
+        } else if (locale === 'en-US') {
+            options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
+        }
+        return new Intl.DateTimeFormat(locale, options).format(date);
+        //return new Intl.DateTimeFormat([locale, 'en-US'], options).format(date); //$NON-NLS-L$
     }
 }
 

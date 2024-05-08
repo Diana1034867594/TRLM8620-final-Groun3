@@ -2,6 +2,7 @@ import {featuredProducts} from "../../app.js";
 import i18n from "../../services/i18n.js";
 
 let Home = {
+
     render : async () => {
         //fetch locale-sensitive strings via i18n method
         let welcomeSubtitle = i18n.getString("Home", "welcomeSubtitle");
@@ -51,6 +52,6 @@ let Home = {
 
     }
 
-}
+};
 
 export default Home;

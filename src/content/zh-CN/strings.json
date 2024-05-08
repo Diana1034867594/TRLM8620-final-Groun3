@@ -47,7 +47,10 @@
         "welcomeSubtitle": "我们提供您想玩的所有游戏。",
         "symbolAlt": "你能得到的最好的游戏"
     },
-    
+    "Browse": {
+        "AllDroids": "所有畅销游戏",
+        "AllVehicles": "所有折扣"
+    },
     "Checkout": {
         "checkoutTitle": "结账",
         "shipSectionLabel": "运输信息",
@@ -90,7 +93,9 @@
         "closeAlt": "关闭购物车"
     },
     "Order": {
-        "statusProcess": "处理中"
+        "statusProcess": "处理中",
+        "statusShipped": "配送中", 
+        "statusDelivered": "已送达"
     },
     "OrderHistory": {
         "historyTitle": "历史订单",

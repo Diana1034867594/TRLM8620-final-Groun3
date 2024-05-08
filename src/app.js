@@ -78,6 +78,12 @@ var updateLocale = async(newLocale) => {
     reloadCart();
 
     router();
+
+    if (locale === 'zh-CN') {
+        window.location.href = 'index_zh-CN.html';
+    } else if (locale === 'en-US') {
+        window.location.href = 'index.html';
+    }
 }
 
 //update the shopping cart based on the new product list

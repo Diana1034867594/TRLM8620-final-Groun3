@@ -42,12 +42,18 @@
         "navLinkDroids": "Best Sellers",
         "navLinkVehicles": "Discount"
     },
+    "index": {
+        "headTitle": "Nintendo World"
+    },
     "Home": {
         "welcomeTitle": "Welcome to Nintendo World!",
         "welcomeSubtitle": "We provide every game you want to play.",
         "symbolAlt": "All the best game you can get"
     },
-    
+    "Browse": {
+        "AllDroids": "All the best sellers",
+        "AllVehicles": "All the discount"
+    },
     "Checkout": {
         "checkoutTitle": "Checkout",
         "shipSectionLabel": "Shipping Info",
@@ -90,7 +96,9 @@
         "closeAlt": "Close Cart"
     },
     "Order": {
-        "statusProcess": "Processing"
+        "statusProcess": "Processing",
+        "statusShipped": "Shipped", 
+        "statusDelivered": "Delivered"
     },
     "OrderHistory": {
         "historyTitle": "Order History",
