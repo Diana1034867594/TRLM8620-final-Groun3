@@ -48,8 +48,9 @@ const i18n = {
         let options;
         if (locale === 'zh-CN') {
             options = { year: 'numeric', month: 'numeric', day: 'numeric' };
-        } else if (locale === 'en-US') {
-            options = { weekday: 'short', year: 'numeric', month: 'short', day: 'numeric' };
+        } 
+        if (locale === 'en-US') {
+            options = { month: 'numeric', day: 'numeric', year: 'numeric' };    
         }
         return new Intl.DateTimeFormat(locale, options).format(date);
         //return new Intl.DateTimeFormat([locale, 'en-US'], options).format(date); //$NON-NLS-L$
