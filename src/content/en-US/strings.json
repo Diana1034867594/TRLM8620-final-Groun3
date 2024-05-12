@@ -81,7 +81,9 @@
         "termsStatement": "I have read and agree to the Terms and Conditions",
         "termsLink": "(View)",
         "successMessage": "Order placed successfully!",
-        "noItemMessage": "Add items to cart to checkout."
+        "noItemMessage": "Add items to cart to checkout.",
+        "expMonth": "MM",
+        "expYear": "YY"
     },
     "ProductShow": {
         "qtyLabel": "Qty: ",
@@ -117,6 +119,10 @@
         "localeLabel": "Locale: ",
         "localeEN": "English - US",
         "localeZH": "Simplified Chinese - China"
+    },
+    "Terms": {
+        "termHead": "Nintendo World Terms and Conditions",
+        "termContent": "Welcome to Nintendo World! These Terms of Use (the 'Terms') apply to your access to, and use of, www.Nintendo.com, and any other website or service that links to these Terms (collectively, the 'Services'). The Services are provided by Nintendo of America Inc. ('Nintendo' or 'we') and your use of the Services is subject to these Terms. These Terms do not alter, in any way, the terms or conditions of any other agreement you may have with Nintendo for products, services or otherwise."
     },
     "Special": "Special"
 }

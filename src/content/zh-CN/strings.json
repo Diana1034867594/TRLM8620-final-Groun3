@@ -78,7 +78,9 @@
         "termsStatement": "我已阅读并同意条款和条件",
         "termsLink": "(查看)",
         "successMessage": "成功下单！",
-        "noItemMessage": "将物品添加到购物车，然后结账。"
+        "noItemMessage": "将物品添加到购物车，然后结账。",
+        "expMonth": "年",
+        "expYear": "月"
     },
     "ProductShow": {
         "qtyLabel": "数量",
@@ -114,6 +116,10 @@
         "localeLabel": "语言/地区: ",
         "localeEN": "英语-美国",
         "localeZH": "简体中文-中国大陆"
+    },
+    "Terms": {
+        "termHead": "任天堂条款",
+        "termContent": "欢迎来到任天堂！这些使用条款（“条款”）适用于您访问和使用www.Nintendo.com以及链接到这些条款的任何其他网站或服务（统称为“服务”）。服务由美国任天堂股份有限公司（“任天堂”或“我们”）提供，您对服务的使用受本条款约束。这些条款不会以任何方式改变您与任天堂就产品、服务或其他方面达成的任何其他协议的条款或条件。"
     },
     "Special": "特别"
 }
