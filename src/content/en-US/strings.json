@@ -60,7 +60,7 @@
         "firstNameLabel": "First Name",
         "lastNameLabel": "Last Name",
         "coordinatesLabel": "Address",
-        "coordinatesHolder": "地址",
+        "coordinatesHolder": "Address",
         "sectorLabel": "Zip Code",
         "methodLabel": "Shipping Method",
         "shipLightspeed": "First-Class",
