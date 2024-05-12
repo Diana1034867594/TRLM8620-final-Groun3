@@ -78,7 +78,9 @@
         "termsStatement": "我已阅读并同意条款和条件",
         "termsLink": "(查看)",
         "successMessage": "成功下单！",
-        "noItemMessage": "将物品添加到购物车，然后结账。"
+        "noItemMessage": "将物品添加到购物车，然后结账。",
+        "expMonth": "月",
+        "expYear": "年"
     },
     "ProductShow": {
         "qtyLabel": "数量",

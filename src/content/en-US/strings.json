@@ -81,7 +81,9 @@
         "termsStatement": "I have read and agree to the Terms and Conditions",
         "termsLink": "(View)",
         "successMessage": "Order placed successfully!",
-        "noItemMessage": "Add items to cart to checkout."
+        "noItemMessage": "Add items to cart to checkout.",
+        "expMonth": "MM",
+        "expYear": "YY"
     },
     "ProductShow": {
         "qtyLabel": "Qty: ",
