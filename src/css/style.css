@@ -391,7 +391,7 @@ nav ul {
   list-style: none;
 }
 nav ul li a {
-  font-family: "Space Mono", monospace;
+  font-family: "Space Mono", monospace, "LiSu", serif;
   font-size: 150%;
   display: inline-block;
   text-decoration: none;
@@ -755,35 +755,35 @@ button:focus {
 
 h1 {
   color: #0b5e88;
-  font-family: "Audiowide", cursive;
+  font-family: "Audiowide", cursive, "SimSun", serif;
   font-weight: bold;
   font-size: 160%;
 }
 
 h2 {
   color: #034c71;
-  font-family: "Audiowide", cursive;
+  font-family: "Audiowide", cursive, "Kaiti";
   font-weight: 500;
   font-size: 140%;
 }
 
 h3 {
   color: black;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif, "Kaiti";
   font-size: 120%;
   font-weight: 500;
 }
 
 h4 {
   color: black;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif, "SimSun", serif;
   font-size: 100%;
   font-weight: 500;
   display: inline-block;
 }
 
 p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Montserrat", sans-serif, "SimSun", serif;
   line-height: 130%;
 }
 
